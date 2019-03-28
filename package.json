@@ -1,0 +1,14 @@
+{
+  "name": "tdd-onlinepajak",
+  "version": "1.0.0",
+  "description": "A TDD Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "khai",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
