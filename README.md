@@ -21,7 +21,7 @@ Was new to TDD so I used a couple of posts as guidelines on how to format my tes
 
 ```
 # Locate the path for the Python 3 installation
-~~which python3~~
+<pre>~~which python3~~</pre>
 Get-Command python3
 
 # Create the virtual environment in a folder named "env" in the current directory
